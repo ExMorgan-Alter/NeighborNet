@@ -1,1 +1,3 @@
-This is an official PyTorch Implementation of "Neighbor Relations Matter in Video Scene Detection``.
+# Neighbor Relations Matter in Video Scene Detection
+This is an official PyTorch Implementation of **Neighbor Relations Matter in Video Scene Detection**.
+Our code will be available.
