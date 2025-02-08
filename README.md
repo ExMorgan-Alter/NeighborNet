@@ -6,7 +6,7 @@ This is an official PyTorch Implementation of **Neighbor Relations Matter in Vid
 1. Download processed features for MovieNet Dataset (Backbone is ResNet-50 Pretrained on ImageNet)
    Link：https://pan.quark.cn/s/c579c7217448 Code：RV7C
    
-   (If you are interested in how to process this dataset, please refer to https://github.com/mini-mind/VSMBD）
+   (If you are interested in how to process this dataset, please refer to [https://github.com/mini-mind/VSMBD](https://github.com/mini-mind/VSMBD)）
 3. Download MovieNet dataset label: https://drive.google.com/drive/folders/1F-uqCKnhtSdQKcDUiL3dRcLOrAxHargz
 4. The unsupervised learning (self-supeivised learning) settings also refer to https://github.com/mini-mind/VSMBD, 
 and the pseudo label generation method is changed to https://github.com/kakaobrain/bassl
